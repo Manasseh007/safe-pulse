@@ -1,0 +1,24 @@
+# Virtual environments
+Backend/venv/
+Backend/__pycache__/
+Backend/*/__pycache__/
+Backend/*/*/__pycache__/
+
+# Node modules
+Frontend Mobile/iprotect-app/node_modules/
+Frontend Mobile/iprotect-app/.expo/
+
+# Database
+Backend/db.sqlite3
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*

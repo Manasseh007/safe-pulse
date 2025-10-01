@@ -1,0 +1,4 @@
+Django==5.2.2
+djangorestframework==3.15.2
+twilio==9.2.4
+requests==2.32.3
